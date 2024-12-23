@@ -1,29 +1,46 @@
-# vue-landingpage-dea
+# Deskripsi
 
-This template should help get you started developing with Vue 3 in Vite.
+Website ini dibuat sebagai bagian dari perlombaan desain web landing page
+untuk memeriahkan acara Dies Natalis ke-21 Politeknik Piksi Ganesha.
 
-## Recommended IDE Setup
+## Persyaratan
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Node.js (versi terbaru disarankan)
 
-## Customize configuration
+- npm atau yarn
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Browser (Chrome, Firefox, edge, safari dll.)
 
 ## Project Setup
 
+### 1. Clone Repository
+
+```sh
+git clone https://github.com/Dhey09/web-landingpage-competition.git
+```
+Pindah ke direktori aplikasi:
+```sh
+cd web-landingpage-competion
+```
+
+### 2. Install Dependensi
+
+Menggunakan npm:
 ```sh
 npm install
 ```
+Menggunakan yarn:
+```sh
+yarn install
+```
+### 3. Menjalankan Aplikasi
 
-### Compile and Hot-Reload for Development
-
+Menggunakan npm:
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
-
+Menggunakan yarn:
 ```sh
-npm run build
+yarn dev
 ```
+
