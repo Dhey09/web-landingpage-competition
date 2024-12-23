@@ -43,4 +43,8 @@ Menggunakan yarn:
 ```sh
 yarn dev
 ```
+Akses aplikasi di web browser (chrome, dll.):
+```sh
+localhost:5173
+```
 
